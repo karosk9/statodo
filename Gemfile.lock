@@ -111,7 +111,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     public_suffix (3.0.3)
     puma (3.12.4)
-    rack (2.0.5)
+    rack (2.2.2)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-test (1.1.0)
